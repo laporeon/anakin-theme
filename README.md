@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/laporeon/anakin-theme/main/icon.png" width="140" />
+<img src="./icon.png" width="140" />
 
 # Anakin Theme
 
