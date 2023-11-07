@@ -1,0 +1,46 @@
+{
+  "name": "anakin-theme",
+  "displayName": "Anakin Theme",
+  "description": "A collection of all of my VS Code favorite themes with a small personal customization.",
+  "version": "1.0.0",
+  "publisher": "laporeon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laporeon/anakin-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anakin Omni",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anakin-omni.json"
+      },
+      {
+        "label": "Anakin Aura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anakin-aura.json"
+      },
+      {
+        "label": "Anakin Firefly",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anakin-firefly.json"
+      },
+      {
+        "label": "Anakin Azure",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anakin-azure.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  }
+}
