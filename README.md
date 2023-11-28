@@ -14,7 +14,7 @@ A collection of my favorite VS Code themes.
 
 1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=laporeon.anakin-theme)
 2. Go to `File > Preferences > Color Theme`
-3. Select `Anakin`, `Anakin Aura`, `Anakin Azure` or `Anakin Firefly`.
+3. Select `Anakin` or `Anakin Azure`.
 
 ## Editor configuration preferences
 
