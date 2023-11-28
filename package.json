@@ -2,7 +2,7 @@
   "name": "anakin-theme",
   "displayName": "Anakin Theme",
   "description": "A collection of all of my VS Code favorite themes with a small personal customization.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "laporeon",
   "repository": {
     "type": "git",
@@ -21,11 +21,6 @@
         "label": "Anakin",
         "uiTheme": "vs-dark",
         "path": "./themes/anakin.json"
-      },
-      {
-        "label": "Anakin Aura",
-        "uiTheme": "vs-dark",
-        "path": "./themes/anakin-aura.json"
       },
       {
         "label": "Anakin Azure",
