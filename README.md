@@ -6,6 +6,8 @@
 
 A minimal dark theme for Visual Studio Code.
 
+<img alt="Anakin Theme preview" src="https://i.imgur.com/Mj7vWTK.png" />
+
 <a href="#install">Install</a> • <a href="#editor-configuration-preferences">Editor Configuration Preferences</a> • <a href="#license">License</a>
 
 </div>
